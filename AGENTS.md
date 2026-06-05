@@ -220,3 +220,5 @@ unzip -o rdv-fe-lfr7-crediti-hook.zip -d . -x "*.git/*"
 
 **Istruzioni per gli agenti**: 
 Quando ti viene chiesto di modificare questa codebase, parti sempre leggendo prima `credit.js`, `router.js` e i modelli principali. Chiedi chiarimenti se il task richiede di toccare flussi di firma o scoring.
+
+**Regola importante**: Ogni volta che crei, modifichi o elimini file/cartelle, esegui subito `git add`, `git commit` e `git push` per mantenere il repository aggiornato.
